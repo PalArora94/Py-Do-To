@@ -7,6 +7,7 @@ This is a command-line application to manage tasks that has the following featur
 2. View all the tasks in the list
 3. Mark tasks as complete
 4. Delete tasks
+5. Download the list as a CSV file
 
 
 ## Workflow
