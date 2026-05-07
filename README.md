@@ -1,4 +1,4 @@
-# Py-Do-To
+# Py-To-Do
 A command-line application to manage tasks.
 
 This is a command-line application to manage tasks that has the following features:
